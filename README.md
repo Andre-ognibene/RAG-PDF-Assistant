@@ -1,4 +1,4 @@
-# 📚 Biblioteca do Hodie - Assistente Inteligente (RAG)
+# 📚 Biblioteca- Assistente Inteligente (RAG)
 
 > 💡 Sistema de consulta inteligente de documentos com IA (RAG), capaz de responder perguntas com base em PDFs reais.
 
